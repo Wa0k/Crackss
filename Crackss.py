@@ -21,7 +21,7 @@ __author__ = "Wa0k"
 __copyright__ = "Copyright (c) 2020 Wa0k"
 __license__ = "MIT License"
 __version__ = "1.0.0"
-__contact__ = "wa0k@gmail.com"
+__contact__ = "wa0k@mailo.com"
 __date__ = "20/06/2020"
 __status__ = "Production"
 
