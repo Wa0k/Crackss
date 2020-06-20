@@ -3,6 +3,8 @@ Created by: Louis ONILLON/@Wa0k
 
 Inspired by: Crunch
 
+License: MIT License
+
 Published on : 20/06/2020
 
 Version 1.0.0
