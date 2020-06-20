@@ -7,6 +7,8 @@ Published on : 20/06/2020
 
 Version 1.0.0
 
+Contact : wa0k@mailo.com
+
 # Description
 This script is a Python word generator, it allows the users to print to the console all possible words that can be generated according to the values of arguments used.
 
