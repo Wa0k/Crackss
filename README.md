@@ -39,7 +39,7 @@ To use the script you must use the command line, the syntax is : `python Crackss
 
 `python Crackss.py 3 5 abcd -p C:\Users\Wa0k\My_directory\list` : this command use the full syntax of the script, it will generate a file named "list" inside of my directory named "My_directory".
 
-You can find in [Example of file](/"Example of file"/word_list.txt) directory, a file that created with the third syntax.  
+You can find in [Example of file](/"Example of file"/) directory, a file that created with the third syntax.  
 **Note :** at the end of the process, a message is displayed on the command line screen containing : the characters used, the number of generated words and the time of the process.  
 
 Have fun with my script !
