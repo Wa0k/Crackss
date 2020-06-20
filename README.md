@@ -41,6 +41,5 @@ To use the script you must use the command line, the syntax is : `python Crackss
 
 You can find in "Example of file" directory, a file that created with the third syntax.  
 **Note :** at the end of the process, a message is displayed on the command line screen containing : the characters used, the number of generated words and the time of the process.  
-  
 
 Have fun with my script !
