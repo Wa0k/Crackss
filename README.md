@@ -28,9 +28,12 @@ To use the script you must use the command line, the syntax is : `python Crackss
 * PATH : valid path
 
 # Example :
-`python Crackss.py 3 5 abcd` : will generate all words with a minimal size of 3 characters until 5 characters containing the characters "abcd". None file will be created after the process because no path has benn specified.  
-`python Crackss.py 3 5 abcd -p list` : will create a file whose name will be "list" inside the current directory.  
-`python Crackss.py 3 5 abcd -p C:\Users\Wa0k\My_directory\` : now, this command will create a file with default file name so "word_list.txt" but inside of my directory named "My_directory".  
+`python Crackss.py 3 5 abcd` : will generate all words with a minimal size of 3 characters until 5 characters containing the characters "abcd". None file will be created after the process because no path has benn specified.
+
+`python Crackss.py 3 5 abcd -p list` : will create a file whose name will be "list" inside the current directory.
+
+`python Crackss.py 3 5 abcd -p C:\Users\Wa0k\My_directory\` : now, this command will create a file with default file name so "word_list.txt" but inside of my directory named "My_directory".
+
 `python Crackss.py 3 5 abcd -p C:\Users\Wa0k\My_directory\list` : this command use the full syntax of the script, it will generate a file named "list" inside of my directory named "My_directory".  
 
 
