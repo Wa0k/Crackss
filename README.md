@@ -1,0 +1,2 @@
+# Crackss
+Python words generator
