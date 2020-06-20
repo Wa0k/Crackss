@@ -1,8 +1,11 @@
 # Crackss
-Created by: Louis ONILLON/@Wa0k  
-Inspired by: Crunch  
-Published on : 20/06/2020  
-Version 1.0.0  
+Created by: Louis ONILLON/@Wa0k
+
+Inspired by: Crunch
+
+Published on : 20/06/2020
+
+Version 1.0.0
 
 # Description
 This script is a Python word generator, it allows the users to print to the console all possible words that can be generated according to the values of arguments used.
@@ -34,7 +37,9 @@ To use the script you must use the command line, the syntax is : `python Crackss
 
 `python Crackss.py 3 5 abcd -p C:\Users\Wa0k\My_directory\` : now, this command will create a file with default file name so "word_list.txt" but inside of my directory named "My_directory".
 
-`python Crackss.py 3 5 abcd -p C:\Users\Wa0k\My_directory\list` : this command use the full syntax of the script, it will generate a file named "list" inside of my directory named "My_directory".  
+`python Crackss.py 3 5 abcd -p C:\Users\Wa0k\My_directory\list` : this command use the full syntax of the script, it will generate a file named "list" inside of my directory named "My_directory".
+
+You can find in "Example of file" directory, a file that created with the third syntax.
 
 
 Have fun with my script !
