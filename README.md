@@ -8,8 +8,7 @@ Version 1.0.0
 This script is a Python word generator, it allows the users to print to the console all possible words that can be generated according to the values of arguments used.
 
 # Usage
-To use the script you must use the **command line**, the syntax is :  
-`python Crackss.py [-h] minimum maximum string [-p PATH]`
+To use the script you must use the command line, the syntax is : `python Crackss.py [-h] minimum maximum string [-p PATH]`
 
 ## Positionnal arguments
 * minimum : minimum size of generated words
@@ -20,7 +19,7 @@ To use the script you must use the **command line**, the syntax is :
 * -h : show the help message and exit
 * -p PATH : redirect the result and save it to the path  
 
-More details about the path : if the path to the directory is only specified so the default file name will be 'word_list.txt', and if only file name is specified so the default directory will be current directory. The extension file must be always '.txt', it isn't necesseary to specified the extension after the file name because it is added automatically.
+**More details about the path** : if the path to the directory is only specified so the default file name will be 'word_list.txt', and if only file name is specified so the default directory will be current directory. The extension file must be always '.txt', it isn't necesseary to specified the extension after the file name because it is added automatically.
 
 ## Arguments preconditions
 * minimum : must be less than or equal to the maximum
